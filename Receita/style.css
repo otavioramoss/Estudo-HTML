@@ -12,7 +12,7 @@
 
 body
 {
-    background-image: url(/Receita/asset/bg-image.jpg);
+    background-image: url(/asset/bg-image.jpg);
     background-size: cover;
 }
 section + section
