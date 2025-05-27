@@ -12,7 +12,11 @@
 
 body
 {
+<<<<<<< HEAD
     background-image: url(/asset/bg-image.jpg);
+=======
+    background-image: url(asset/bg-image.jpg);
+>>>>>>> 61589ffd49df7597472b89d4211d18dd133bcff8
     background-size: cover;
 }
 section + section

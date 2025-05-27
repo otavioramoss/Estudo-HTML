@@ -13,17 +13,6 @@ Os exercícios foram baseados nos seguintes projetos disponíveis no Figma Commu
 - **Página de Receita**  
   [Visualizar no Figma](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita)
 
-## Tecnologias utilizadas
-
-Dependendo do exercício, as tecnologias podem incluir:
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- Node.js  
-- React  
-- Git & GitHub  
-
 ## Estrutura
 
 Cada pasta contém um projeto ou exercício com seu respectivo código-fonte e recursos.
